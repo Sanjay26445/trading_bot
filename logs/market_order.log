@@ -1,5 +1,0 @@
-2026-01-29 16:25:32 - INFO - __main__ - Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.01
-2026-01-29 16:25:32 - INFO - bot.client - Binance Futures Testnet client initialized
-2026-01-29 16:25:32 - INFO - __main__ - Binance client initialized successfully
-2026-01-29 16:25:32 - INFO - __main__ - Placing market order: BTCUSDT BUY 0.01
-2026-01-29 16:25:33 - INFO - __main__ - Order placed successfully. Response: orderId=12021728462, status=NEW, executedQty=0.000, avgPrice=0.00

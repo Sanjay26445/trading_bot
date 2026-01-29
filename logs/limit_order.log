@@ -1,5 +1,0 @@
-2026-01-29 16:26:15 - INFO - __main__ - Order request: symbol=BTCUSDT, side=SELL, type=LIMIT, quantity=0.01, price=85000.0
-2026-01-29 16:26:15 - INFO - bot.client - Binance Futures Testnet client initialized
-2026-01-29 16:26:15 - INFO - __main__ - Binance client initialized successfully
-2026-01-29 16:26:15 - INFO - __main__ - Placing limit order: BTCUSDT SELL 0.01 @ 85000.0
-2026-01-29 16:26:16 - INFO - __main__ - Order placed successfully. Response: orderId=12021734178, status=NEW, executedQty=0.000, avgPrice=0.00
